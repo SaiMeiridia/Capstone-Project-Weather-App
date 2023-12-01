@@ -25,5 +25,6 @@ How to Run the Project
 To-Do
 
 Add possibly background images that represent a iconic place of a location.
+Add a 10 day forecast
 
 
